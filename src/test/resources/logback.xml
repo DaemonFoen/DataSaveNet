@@ -1,0 +1,6 @@
+<configuration>
+<!--  <logger name="org.testcontainers" level="INFO"/>-->
+<!--  <logger name="org.testcontainers.utility.ResourceReaper" level="WARN"/>-->
+<!--  <logger name="org.apache.http" level="WARN"/>-->
+  <logger name="org.apache.http.wire" level="OFF"/>
+</configuration>
